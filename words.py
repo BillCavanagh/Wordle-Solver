@@ -1,6 +1,6 @@
-INIT_FILE = 'python-projects\wordle\All_English_Words.txt'
-INPUT_FILE = 'python-projects\wordle\wordle_words.txt'
-POSSIBLE_WORDS_FILE = 'python-projects\wordle\possible_words.txt'
+INIT_FILE = 'data/All_English_Words.txt'
+INPUT_FILE = 'data/wordle_words.txt'
+POSSIBLE_WORDS_FILE = 'data/possible_words.txt'
 WORDLE_LENGTH = 5
 import time
 import re

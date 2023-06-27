@@ -1,1 +1,1 @@
-# Wordle-Python
+# Small application to solve wordle puzzles

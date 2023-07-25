@@ -1,1 +1,1 @@
-# Small application to solve wordle puzzles
+# Small application to solve wordle puzzles or provide hints for one

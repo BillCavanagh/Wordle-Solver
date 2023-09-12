@@ -1,1 +1,1 @@
-# Small application to solve wordle puzzles or provide hints for one, development on hold to focus on other projects (I have plans to change this using NumPy for efficiency later on maybe during december)
+# Small application to solve wordle puzzles or provide hints for one. I have plans to change this using NumPy for efficiency later on maybe during December
